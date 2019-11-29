@@ -6,5 +6,6 @@ You will need your own reddit account and API credentials
 Required modules:
 
 `pip install praw`
+
 `pip install win10toast` 
 
